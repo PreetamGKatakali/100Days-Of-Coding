@@ -8,6 +8,8 @@ console.log("This is used for the printing the code in the console");
 
 console.error("This is the error message"); //command for the printing the error message 
 
+
+alert("this is popup message") //this is popup message which is showed in the browsre
 /**
  * JavaScript is consider as the client-side scripting language which means 
  * that it run's on the user browser and does not function on the external device.
