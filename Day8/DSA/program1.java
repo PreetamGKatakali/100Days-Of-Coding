@@ -1,5 +1,7 @@
 package Day8.DSA;
-
+/**
+ * Write a program to find the given array is a part of the parent array
+ */
 public class program1 {
     public static void main(String[] args) {
         int[] arr={10,5,2,9};
