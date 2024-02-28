@@ -1,4 +1,4 @@
-# Day16🧑‍💻
+# Day15🧑‍💻
 ## Topics going to cover: 
 ### DSA
 - write a program to find the peak element which is not smaller than the others .

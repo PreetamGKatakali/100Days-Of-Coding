@@ -1,11 +1,11 @@
-# Day16🧑‍💻
+# Day17🧑‍💻
 ## Topics going to cover: 
 ### DSA
-- write a program to find the peak element which is not smaller than the others .
-- Write a program to move all the negative number to the left side of the array.
+- write a program to find the secound biggest from the array with out sorting .
+- Write a program to find the weather the given number is the armstrong or not.
 
 ### JavaScript
-- Understanding about the hoisting in the javscript.
+- Understanding about this keyword in the javascript.
 
 ## Installing the Java and Node 
 Follow Links : 
