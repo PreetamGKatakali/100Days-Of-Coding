@@ -1,0 +1,1 @@
+//javascript funcstion and the arrow functions
