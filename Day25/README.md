@@ -1,8 +1,8 @@
-# Day24🧑‍💻
+# Day25🧑‍💻
 ## Topics going to cover: 
 ### DSA
-- write a program to find the maxproduct from the array rotations .
-- Write a program to find union for all the arrays.
+- write a program to find the intersection in the arrays .
+- Write a program to find heap sort.
 
 ### JavaScript
 - Understanding about the async in the javascript.

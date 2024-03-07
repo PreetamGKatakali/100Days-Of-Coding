@@ -1,4 +1,4 @@
-# Day22🧑‍💻
+# Day23🧑‍💻
 ## Topics going to cover: 
 ### DSA
 - write a program to sort thr array.
