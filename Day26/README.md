@@ -5,7 +5,7 @@
 - Write a program to find sum of the subarray.
 
 ### JavaScript
-- Understanding about the async in the javascript.
+- Understanding about the async and await.
 
 ## Installing the Java and Node 
 Follow Links : 

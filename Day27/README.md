@@ -5,7 +5,7 @@
 - Write a program to find the colume Wise smallest in the 2D array.
 
 ### JavaScript
-- Understanding about the async in the javascript.
+- Understanding about the async and await in details.
 
 ## Installing the Java and Node 
 Follow Links : 

@@ -5,7 +5,7 @@
 - Write a program to find heap sort.
 
 ### JavaScript
-- Understanding about the async in the javascript.
+- Understanding about the promise in the javascript.
 
 ## Installing the Java and Node 
 Follow Links : 
