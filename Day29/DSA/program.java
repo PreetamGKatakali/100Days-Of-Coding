@@ -1,9 +1,10 @@
+package Day29.DSA;
 
 import java.util.Scanner;
 /**
- * Write a program to reverse the 2D array by colume wise
+ * write the program to reverse the 2Darray in the daigonal reverse format
  */
-public class program {
+public class program{
     static int[][] readMatrix(){
         Scanner s=new Scanner(System.in);
         System.out.println("enter the order of the matrix");
@@ -32,16 +33,20 @@ public class program {
     }
     public static void main(String[] args) {
         int[][] arr=readMatrix();
-        for(int i=0;i<arr[0].length;i++){
-            int f=0,l=arr.length-1;
-            while(f<l){
-                int temp=arr[f][i];
-                arr[f][i]=arr[l][i];
-                arr[l][i]=temp;
-                f++;
-                l--;
-            }
+        int f=0,l=arr.length-1;
+        while(f<l){
+            int temp=arr[f][f];
+            arr[f][f]=arr[l][l];
+            arr[l][l]=temp;
+
+            temp=arr[f][l];
+            arr[f][l]=arr[l][f];
+            arr[l][f]=temp;
+            f++;
+            l--;
         }
+
         display(arr);
+
     }
 }
