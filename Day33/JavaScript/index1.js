@@ -6,5 +6,5 @@
  * 2) default export 
  * 
  * named export are constructed by curly braces.
- * defaut export are constructed normal
+ * default export are constructed normal
  */
