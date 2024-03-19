@@ -1,11 +1,11 @@
-# Day37🧑‍💻
+# Day36🧑‍💻
 ## Topics going to cover: 
 ### DSA
-- write a program to check the bracket is balanced.
-- Write a program implementing the stack using queue.
+- write a program to implement the stack.
+- Write a program to reverse the string using the stack.
 
 ### JavaScript
-- some random program to the javascript.
+- javascript random and floor.
 
 ## Installing the Java and Node 
 Follow Links : 
