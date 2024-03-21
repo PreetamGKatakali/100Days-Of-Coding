@@ -1,4 +1,4 @@
-# Day38🧑‍💻
+# Day39🧑‍💻
 ## Topics going to cover: 
 ### DSA
 - write a program to reverse the array by using the stack.
