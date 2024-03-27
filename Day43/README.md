@@ -1,4 +1,4 @@
-# Day40🧑‍💻
+# Day43🧑‍💻
 ## Topics going to cover: 
 ### DSA
 - write a program to find smallest nearest to left.

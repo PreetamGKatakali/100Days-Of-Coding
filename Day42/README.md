@@ -1,4 +1,4 @@
-# Day40🧑‍💻
+# Day42🧑‍💻
 ## Topics going to cover: 
 ### DSA
 - write a program to find nearest to right greater.

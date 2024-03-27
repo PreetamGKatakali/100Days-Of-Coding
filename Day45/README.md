@@ -1,8 +1,8 @@
-# Day44🧑‍💻
+# Day45🧑‍💻
 ## Topics going to cover: 
 ### DSA
-- write a program to find smallest nearest to right.
-- Write a program to reverse the stack using the queue.
+- Write a program to length of the logest valid substring.
+- Write a program to find the minimum element in the constant time.
 
 ## Installing the Java and Node 
 Follow Links : 
