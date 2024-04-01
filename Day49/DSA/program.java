@@ -1,7 +1,9 @@
 package Day49.DSA;
 
 import java.util.Stack;
-
+/**
+ * coversion of the infix to postfix
+ */
 public class program{
     static int prec(char c){
         if(c=='^'){
