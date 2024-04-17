@@ -2,7 +2,7 @@
 ## Topics going to cover: 
 ### DSA
 - Write a program for to add the frist and the last elements on the linkedlist.
-- Write a program to swap pairs of the linked list.
+- Write a program to swap pairs of the linked .
 
 ## Installing the Java and Node 
 Follow Links : 
