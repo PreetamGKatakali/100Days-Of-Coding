@@ -1,6 +1,7 @@
 package Day70.DSA;
 
 public class program1 {
+    //reverse
     static Node reverse(Node head){
         if(head==null || head.next==null){
             return head;
