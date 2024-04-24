@@ -1,8 +1,8 @@
 # Day65🧑‍💻
 ## Topics going to cover: 
 ### DSA
-- Write a program to create the binary tree.
-- Write a program to print the tree in the postOrder,perOrder,inOrder.
+- Write a program to clone the linkedlist.
+- Write a program to reverse the linked list.
 
 ## Installing the Java and Node 
 Follow Links : 
