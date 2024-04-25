@@ -1,8 +1,8 @@
 # Day74🧑‍💻
 ## Topics going to cover: 
 ### DSA
-- Write a program to clone the linkedlist.
-- Write a program to reverse the linked list.
+- Write a program.
+- Write a program.
 
 ## Installing the Java and Node 
 Follow Links : 
