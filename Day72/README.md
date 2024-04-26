@@ -1,8 +1,8 @@
 # Day65🧑‍💻
 ## Topics going to cover: 
 ### DSA
-- Write a program to clone the linkedlist.
-- Write a program to reverse the linked list.
+- Write a program to find the level order of the tree.
+- Write a program to convert the interger to roman.
 
 ## Installing the Java and Node 
 Follow Links : 
