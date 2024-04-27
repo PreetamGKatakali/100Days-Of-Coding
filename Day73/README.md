@@ -1,8 +1,8 @@
-# Day65🧑‍💻
+# Day73🧑‍💻
 ## Topics going to cover: 
 ### DSA
-- Write a program to clone the linkedlist.
-- Write a program to reverse the linked list.
+- Write a program to print the leaf node.
+- Write a program to print the node by levelorder.
 
 ## Installing the Java and Node 
 Follow Links : 

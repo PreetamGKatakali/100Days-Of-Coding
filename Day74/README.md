@@ -1,8 +1,8 @@
 # Day74🧑‍💻
 ## Topics going to cover: 
 ### DSA
-- Write a program.
-- Write a program.
+- Write a program to print the ancenstor of the binary tree.
+- Write a program to print the diagonals sum of the binary tree.
 
 ## Installing the Java and Node 
 Follow Links : 

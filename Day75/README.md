@@ -1,4 +1,4 @@
-# Day74🧑‍💻
+# Day75🧑‍💻
 ## Topics going to cover: 
 ### DSA
 - Write a program.
