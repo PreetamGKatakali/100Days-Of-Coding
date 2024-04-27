@@ -2,7 +2,9 @@ package Day72.DSA;
 
 import java.util.LinkedList;
 import java.util.Queue;
-
+/**
+ * finding the levelOrder of the tree
+ */
 class Node{
     int val;
     Node left;
