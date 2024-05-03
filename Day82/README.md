@@ -1,4 +1,4 @@
-# Day81🧑‍💻
+# Day82🧑‍💻
 ## Topics going to cover: 
 ### DSA
 - Write a program find the peek element in the array.
