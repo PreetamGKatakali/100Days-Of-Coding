@@ -1,8 +1,8 @@
 # Day82🧑‍💻
 ## Topics going to cover: 
 ### DSA
-- Write a program find the peek element in the 2D array.
-- Write a program find the target element in the 2D array.
+- Write a program find the kth smallest from the binary tree.
+- Write a program find the kth smallest and the largest approch in the binary tree.
 
 ## Installing the Java and Node 
 Follow Links : 
