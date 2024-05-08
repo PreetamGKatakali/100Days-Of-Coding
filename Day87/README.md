@@ -1,4 +1,4 @@
-# Day85🧑‍💻
+# Day87🧑‍💻
 ## Topics going to cover: 
 ### DSA
 - Write a program to create the graphs.
