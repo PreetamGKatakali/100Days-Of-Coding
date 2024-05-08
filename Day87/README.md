@@ -1,8 +1,8 @@
 # Day87🧑‍💻
 ## Topics going to cover: 
 ### DSA
-- Write a program to create the graphs.
-- Write a program find weather the BTS is ful BTS or not.
+- Write a program to find all the paths from the graphs.
+- Write a program to print the graphs in the BFS order.
 
 ## Installing the Java and Node 
 Follow Links : 
