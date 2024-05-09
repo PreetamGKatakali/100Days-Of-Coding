@@ -1,4 +1,4 @@
-# Day87🧑‍💻
+# Day88🧑‍💻
 ## Topics going to cover: 
 ### DSA
 - Write a program to find all the paths from the graphs.
