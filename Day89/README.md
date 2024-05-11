@@ -1,8 +1,8 @@
 # Day89🧑‍💻
 ## Topics going to cover: 
 ### DSA
-- Write a program to find all the paths from the graphs.
-- Write a program to print the graphs in the BFS order.
+- Write a program to sort the bianry tree in the sorted format.
+- Write a program to sort all the even number in the left child and the all the odd number in the right child.
 
 ## Installing the Java and Node 
 Follow Links : 
