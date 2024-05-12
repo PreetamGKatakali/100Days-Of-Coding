@@ -1,8 +1,8 @@
-# Day90🧑‍💻
+# Day91🧑‍💻
 ## Topics going to cover: 
 ### DSA
+- Write a program to print the pascal triangle of the given row.
 - Write a program to print the pascal triangle.
-- Write a program to get the element from the pascal triangle.
 
 ## Installing the Java and Node 
 Follow Links : 
