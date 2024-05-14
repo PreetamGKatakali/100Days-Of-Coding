@@ -1,8 +1,8 @@
 # Day93🧑‍💻
 ## Topics going to cover: 
 ### DSA
-- Write a program to find the repeated string match.
-- Write a program to find the shortest palindrome.
+- Write a program to rabin karp.
+- Write a program to decode the string.
 
 ## Installing the Java and Node 
 Follow Links : 
