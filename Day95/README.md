@@ -1,4 +1,4 @@
-# Day94🧑‍💻
+# Day95🧑‍💻
 ## Topics going to cover: 
 ### DSA
 - Write a program reverse the pair count in the array.
