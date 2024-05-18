@@ -1,8 +1,8 @@
 # Day96🧑‍💻
 ## Topics going to cover: 
 ### DSA
-- Write a program reverse the pair count in the array.
-- Write a program search the given number in the 2D array.
+- Write a program finding the sum target of the giveing value.
+- Write a program finding the kth smallest and largest value.
 
 ## Installing the Java and Node 
 Follow Links : 
