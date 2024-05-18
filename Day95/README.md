@@ -1,8 +1,8 @@
 # Day95🧑‍💻
 ## Topics going to cover: 
 ### DSA
-- Write a program reverse the pair count in the array.
-- Write a program search the given number in the 2D array.
+- Write a program adding the Node in the BST.
+- Write a program deleteing the Node in the BST.
 
 ## Installing the Java and Node 
 Follow Links : 
