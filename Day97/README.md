@@ -1,4 +1,4 @@
-# Day96🧑‍💻
+# Day97🧑‍💻
 ## Topics going to cover: 
 ### DSA
 - Write a program merge the two arrays.
