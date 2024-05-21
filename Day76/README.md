@@ -1,8 +1,8 @@
 # Day76🧑‍💻
 ## Topics going to cover: 
 ### DSA
-- Write a program.
-- Write a program.
+- Write a program to check weather the given number is power two or not.
+- Write a program to implement heap sort.
 
 ## Installing the Java and Node 
 Follow Links : 
