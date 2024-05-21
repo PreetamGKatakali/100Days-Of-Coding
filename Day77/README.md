@@ -1,8 +1,8 @@
 # Day76🧑‍💻
 ## Topics going to cover: 
 ### DSA
-- Write a program.
-- Write a program.
+- Write a program to implement the insertions sort.
+- Write a program to implement the insertions sort by recursions .
 
 ## Installing the Java and Node 
 Follow Links : 
