@@ -1,8 +1,8 @@
 # Day99🧑‍💻
 ## Topics going to cover: 
 ### DSA
-- Write a program find the longest palindromic subsequence.
-- Write a program find the Distinct Subsequences in the string.
+- Write a program find the lowest command ancestor.
+- Write a program to solve the House Robber.
 
 ## Installing the Java and Node 
 Follow Links : 
